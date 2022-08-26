@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/twitter.com/prak_p10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/prak_p10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/prakhar-pandey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prakhar-pandey10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/prakhar_1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/prakhar_1005" height="30" width="40" /></a>
+<a href="https://twitter.com/prak_p10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prak_p10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prakhar-pandey10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-pandey10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prakhar_1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar_1005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
