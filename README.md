@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **prakhar10may@gmail.com**
 
