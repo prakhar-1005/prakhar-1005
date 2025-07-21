@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A Sotware Engineer</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **prakhar10may@gmail.com**
 
